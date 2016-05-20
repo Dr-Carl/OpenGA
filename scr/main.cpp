@@ -13,5 +13,6 @@
 
 int main(int argc, const char * argv[]) {
 	std::cout << "Hello, World!\n";
+	std::cout << "Another line of output: Hello, World!\n";
 	return 0;
 }
