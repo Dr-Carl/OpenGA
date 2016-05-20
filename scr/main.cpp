@@ -4,6 +4,14 @@
 //
 //  Created by Carl Rouhiainen on 20/05/2016.
 //
+//  Open Source Project for Genetic Algorithms (and other EA's) using C++14
+//
+//  See Github --> https://github.com/Dr-Carl/OpenGA
 //
 
-#include <stdio.h>
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+	std::cout << "Hello, World!\n";
+	return 0;
+}
